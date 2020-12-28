@@ -1,0 +1,122 @@
+.header
+{
+	margin: 20px;
+	
+}
+
+
+.logo
+{
+
+	height: 120px;
+	padding: 10px 10px;
+
+}
+
+
+h1
+{
+	font-family: "Helvetica Neue";
+	font-weight: bold;
+	font-size: 24pt;
+
+}
+
+
+h2
+{
+	
+	display: block;
+	border-top: 1px solid;
+}
+
+
+
+
+
+.jumbotron
+{
+	background-image: url('hero1.jpg');
+	height: 500px;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: center;
+	background-size: cover;
+}
+
+
+.MiddleTitle
+{
+	position: relative;
+	left: 25px;
+	margin-top: 30px;
+	margin-bottom: 50px;
+
+}
+
+
+
+
+
+
+
+
+section .align
+{
+	display: flex;
+
+	
+	
+	justify-content: center;
+	
+}
+
+
+
+
+
+
+
+.photo1
+{
+	height: 200px;
+	
+
+}
+
+
+.photo2
+{
+	height: 200px;
+	
+}
+
+
+.photo3
+{
+	height: 200px;
+	
+}
+
+
+.footer
+{
+	margin-top: 50px;
+	color: white;
+}
+
+
+footer .container-fluid
+{
+	background-color: #3D3D3D;
+
+}
+
+
+footer .col-sm
+{
+	margin-top: 40px;
+	margin-bottom: 50px;
+}
+
+
