@@ -1,2 +1,2 @@
 # Website-Proj
-Functional website mockup using html/css. (Work in Progress)
+Functional website mockup using html-bootstrap/css. (Work in Progress)
